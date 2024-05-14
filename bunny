@@ -20,8 +20,5 @@ public class SortAsc {
                    arr[j] = temp;    
                }     
             }     
-        }  
-
-#hello hi am here venki
-#hi am venki
+        } 
 
